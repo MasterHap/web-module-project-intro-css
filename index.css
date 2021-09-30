@@ -1,0 +1,95 @@
+body{
+    font-size:1.6rem;
+    line-height: 1.5;
+    color:#4f4f4f;
+    font-family:'Roboto Mono', monospace;
+}
+a{
+    text-decoration: none;
+    font-family:'Roboto Mono', monospace;
+}
+section{
+    padding:4% 0;
+}
+nav{
+    padding:2% 0;
+}
+nav a{
+    display: inline-block;
+    width: 10%;
+    padding: 1% 0;
+    border-radius:20px;
+    text-align: center;
+    line-height:1;
+    color:#fff;
+}
+.orange{
+    background-color: #ff764e;
+    margin-left:12%;
+}
+.blue{
+    background-color:#5ed3eb;
+    margin:0 23%;
+}
+.yellow{
+    background-color:#ffcd69;
+    margin-right:10%;
+}
+h1{
+    font-family: 'Chelsea Market', cursive; 
+    font-size: 5rem;
+}
+.left, .right{
+    display:inline-block;
+}
+.left{
+    width:30%;
+    margin-left:10%;
+}
+.left img{
+    width:80%;
+    border-radius: 50%;
+}
+.right{
+    width:55%;
+    margin-left:1%;
+    text-align:center;
+    position:absolute;
+    top:20%;
+}
+.box{
+    margin:1%;
+    text-align: center;
+    padding:.1%;
+    margin-left:10%;
+    margin-right:10%;
+    background-color:#DDB9A3;
+    color: white;
+}
+.first{
+ text-align: center;
+ margin:auto;
+ width: 25%;
+ padding-top:0;
+ padding-bottom:0;
+}
+.first img{
+ width: 50%;
+}
+.second{
+ text-align: center;
+ margin:auto;
+ width:25%;
+ padding-top: 0;
+ padding-bottom:10%;
+}
+.second img{
+ width:50%;
+}
+footer{
+   background-color:#F9E7DC; 
+}
+footer img{
+   width:100%;
+   height:300px;
+}
